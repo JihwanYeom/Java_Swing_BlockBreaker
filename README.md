@@ -1,4 +1,9 @@
+
 # Java Swing 으로 벽돌깨기 게임 제작하기
+
+![스샷2](https://github.com/user-attachments/assets/a6126a82-2eef-4ebf-a3d8-99242e4e2731)
+![스샷3](https://github.com/user-attachments/assets/b3a303b9-8870-4096-aae9-7eb443adca00)
+
 - Java Swing 라이브러리를 이용한 벽돌깨기 게임입니다.
 - 게임의 배경음, 효과음, 디자인은 교수님의 예시 프로그램과 알카노이드를 참고했습니다.
 - 최신 버전의 jre가 필요할 수 있습니다.
